@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Muhammad-Shaheer-Junaid/Muhammad-Shaheer-Junaid/blob/main/Banner.gif" alt="Custom Banner" width="50%" />
+  <img src="https://github.com/Muhammad-Shaheer-Junaid/Muhammad-Shaheer-Junaid/blob/main/Banner.gif" alt="Custom Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Muhammad Shaheer Junaid</h1>
@@ -100,7 +100,6 @@
   <a href="https://www.figma.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.adobe.com/products/xd.html" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-original.svg" alt="Adobe XD" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.photoshop.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg" alt="Photoshop" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.adobe.com/products/lightroom.html" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lightroom/lightroom-original.svg" alt="Lightroom" width="40" height="40"/></a>
 </p>
 
 ---
