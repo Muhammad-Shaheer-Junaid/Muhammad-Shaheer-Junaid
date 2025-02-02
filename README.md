@@ -31,7 +31,7 @@
 - **Mobile Development:** React Native, Flutter, Cross-Platform Development, Mobile UI/UX
 - **AI/ML & Data Science:** Python, NumPy, Pandas, TensorFlow, PyTorch, Machine Learning Algorithms, Deep Learning, Data Visualization, Natural Language Processing (NLP)
 - **DevOps:** CI/CD Pipelines, Automated Testing, Infrastructure as Code (Terraform)
-- **Software Engineering Principles:** Agile Methodologies, Design Patterns, Version Control (Git)  *(In Progress)*
+- **Software Engineering Principles:** Agile Methodologies, Design Patterns, Version Control (Git)
 
 ---
 
@@ -83,6 +83,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>&nbsp;
+</p>
+  
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" alt="WordPress" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>&nbsp;
@@ -115,7 +118,7 @@
 ## 📬 *Connect with Me:*
 
 <p align="center">
-  <a href=" (22) Muhammad Shaheer Junaid | LinkedIn" target="blank">
+  <a href="https://www.linkedin.com/in/muhammad-shaheer-junaid-974536309?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAE6RLOgBFEvYUiEGxhXHyuIwd5O5oa6ox4s&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_people%3BQtEX7K1URwOsc9GHqtjcgg%3D%3D" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto: junaidmuhammadshaheer@gmail.com ">
