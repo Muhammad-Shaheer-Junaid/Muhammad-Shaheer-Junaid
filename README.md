@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://via.placeholder.com/600x200.png?text=Welcome+to+My+GitHub+Profile" alt="Custom Banner" width="50%" />
+  <img src="https://github.com/Muhammad-Shaheer-Junaid/Muhammad-Shaheer-Junaid/blob/main/Banner.gif" alt="Custom Banner" width="50%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Muhammad Shaheer Junaid</h1>
