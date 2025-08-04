@@ -1,127 +1,124 @@
 <p align="center">
-  <img src="https://github.com/Muhammad-Shaheer-Junaid/Muhammad-Shaheer-Junaid/blob/main/Banner.gif" alt="Custom Banner" width="50%"/>
+  <img src="https://github.com/Muhammad-Shaheer-Junaid/Muhammad-Shaheer-Junaid/blob/main/Banner.gif" alt="Custom Banner" width="60%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Muhammad Shaheer Junaid</h1>
-<h3 align="center">MERN Stack & Frontend Developer from Pakistan, exploring AI and mobile development!</h3>
+<h3 align="center">MERN Stack & Frontend Developer from Pakistan | Exploring AI & Mobile Development</h3>
 
-<p align="center">  
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&lines=Welcome+to+my+GitHub+profile!;I'm+a+Frontend+Developer;Currently+exploring+MERN+Stack+%26+Data+Science" alt="Typing SVG" />  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Frontend+Developer+and+Tech+Explorer;Learning+MERN%2C+AI%2C+and+Mobile+Development" alt="Typing SVG" />
 </p>
 
 ---
 
-## 🎯 *About Me:*
+## 🎯 *About Me*
 
-- 🔭 I’m currently working on exciting Web and Mobile development projects.
-- 🌱 I’m learning MERN Stack, Flutter, and AI/ML with PyTorch & TensorFlow.
-- 👯 I’m looking to collaborate on Web and Mobile app development projects.
-- 🤝 I’m open to building innovative Web and App Dev solutions and exploring AI-powered applications.
-- 💬 Ask me about React, Node.js, JavaScript, and AI/ML.
-- 📫 Reach me at junaidmuhammadshaheer@gmail.com.
-- ⚡ Fun fact: I talk to my code like it can understand me… sometimes it listens! 🗣️💻.
-
----
-
-## 📚 *Learning Path:*
-
-- **Full-Stack Web Development:** MERN Stack (MongoDB, Express.js, React, Node.js), RESTful APIs, GraphQL
-- **Frontend Development:** React, HTML, CSS, JavaScript (ES6+), Responsive Design, UI/UX Principles
-- **Backend Development:** Node.js, Express.js, Serverless Functions, Database Design (MongoDB, SQL)
-- **Mobile Development:** React Native, Flutter, Cross-Platform Development, Mobile UI/UX
-- **AI/ML & Data Science:** Python, NumPy, Pandas, TensorFlow, PyTorch, Machine Learning Algorithms, Deep Learning, Data Visualization, Natural Language Processing (NLP)
-- **DevOps:** CI/CD Pipelines, Automated Testing, Infrastructure as Code (Terraform)
-- **Software Engineering Principles:** Agile Methodologies, Design Patterns, Version Control (Git)
+- 🔭 Currently working on exciting Web and Mobile projects  
+- 🌱 Learning MERN Stack, Flutter, and AI/ML with PyTorch & TensorFlow  
+- 👯 Looking to collaborate on full-stack and AI-driven applications  
+- 💬 Ask me about React, Node.js, JavaScript, and Python  
+- 📫 Email: **junaidmuhammadshaheer@gmail.com**  
+- ⚡ Fun fact: I talk to my code like it understands me… and sometimes, it actually listens! 🤖💻
 
 ---
 
-## 🌟 *GitHub Achievements:*
+## 📚 *Learning Path*
+
+- **Web Development**: HTML, CSS, JavaScript, React, Node.js, Express, MongoDB  
+- **Mobile Dev**: React Native, Flutter  
+- **AI/ML & Data Science**: Python, NumPy, Pandas, TensorFlow, PyTorch, NLP  
+- **DevOps**: Git, GitHub, CI/CD  
+- **Design**: UI/UX Principles, Responsive Design
+
+---
+
+## 🏆 *GitHub Achievements*
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=muhammad-shaheer-junaid&theme=radical&margin-w=15&margin-h=15&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Muhammad-Shaheer-Junaid&theme=radical&margin-w=15&margin-h=15&column=7" alt="GitHub Trophies" />
 </p>
 
 ---
 
-## 📊 *GitHub Stats:*
+## 📊 *GitHub Stats*
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammad-shaheer-junaid&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Shaheer-Junaid&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-shaheer-junaid&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Shaheer-Junaid&theme=radical" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-shaheer-junaid&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
-## 🚨 *GitHub Activity Graph:*
-
-[![Muhammad Shaheer Junaid's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=muhammad-shaheer-junaid&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
-### 🔗 *Visitor Count:*
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/muhammad-shaheer-junaid/count.svg" alt="Visitor Count" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Shaheer-Junaid&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
 
-## 🛠 *Languages and Tools I Like:*
+## 🔥 *GitHub Activity Graph*
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>&nbsp;
-</p>
-  
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" alt="WordPress" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Muhammad-Shaheer-Junaid&theme=react-dark" alt="GitHub Activity Graph" />
 </p>
 
 ---
 
-## 🎨 *Design Tools I Love:*
+## 👨‍💻 *Languages & Tools I Use*
 
 <p align="center">
-  <a href="https://www.figma.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.adobe.com/products/xd.html" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-original.svg" alt="Adobe XD" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.photoshop.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg" alt="Photoshop" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40" alt="Bootstrap" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" alt="Tailwind CSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" alt="Express.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40" alt="TensorFlow" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" height="40" alt="PyTorch" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40" alt="Flutter" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" />
 </p>
 
 ---
 
-## 🚀 *Fun Features:*
+## 🎨 *Design Tools I Use*
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="GitHub Quotes" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" alt="Figma" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-original.svg" width="40" height="40" alt="Adobe XD" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg" width="40" height="40" alt="Photoshop" />
 </p>
 
 ---
 
-## 📬 *Connect with Me:*
+## 💡 *Fun Developer Quote*
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/muhammad-shaheer-junaid-974536309?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAE6RLOgBFEvYUiEGxhXHyuIwd5O5oa6ox4s&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_people%3BQtEX7K1URwOsc9GHqtjcgg%3D%3D" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
+</p>
+
+---
+
+## 🌍 **Visitor Count**
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Muhammad-Shaheer-Junaid&label=VISITORS&style=for-the-badge&color=0abde3" alt="Profile Views Badge" />
+</p>
+
+---
+
+## 🤝 **Connect with Me**
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/muhammad-shaheer-junaid-974536309" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="mailto: junaidmuhammadshaheer@gmail.com ">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  &nbsp;
+  <a href="mailto:junaidmuhammadshaheer@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
 </p>
