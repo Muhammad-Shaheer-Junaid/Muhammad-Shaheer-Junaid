@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Muhammad-Shaheer-Junaid/Muhammad-Shaheer-Junaid/blob/main/Banner.gif" alt="Custom Banner" width="80%" />
+  <img src="https://github.com/Muhammad-Shaheer-Junaid/Muhammad-Shaheer-Junaid/blob/main/Banner.gif" alt="Custom Banner" width="60%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Muhammad Shaheer Junaid</h1>
