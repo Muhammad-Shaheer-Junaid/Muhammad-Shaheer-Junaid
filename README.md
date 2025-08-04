@@ -103,7 +103,7 @@
 
 ---
 
-## 🌍 **Visitor Count**
+## 🌍 *Visitor Count*
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Muhammad-Shaheer-Junaid&label=VISITORS&style=for-the-badge&color=0abde3" alt="Profile Views Badge" />
@@ -111,7 +111,7 @@
 
 ---
 
-## 🤝 **Connect with Me**
+## 🤝 *Connect with Me*
 
 <p align="center">
   <a href="https://www.linkedin.com/in/muhammad-shaheer-junaid-974536309" target="_blank">
